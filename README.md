@@ -7,4 +7,4 @@ A comprehensive system design project demonstrating a containerized Python appli
 * **Containerization:** Docker
 * **Orchestration:** Kubernetes (EKS ready)
 * **CI/CD:** Jenkins
-* **IaC:** Terraform (AWS)
+* **IaC:** Terraform (AWS) 
